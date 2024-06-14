@@ -6,6 +6,8 @@ import Rutas.Vip;
 
 public class Main {
     public static void main(String[] args) {
+
+        // Creacion de los Pasajeros
         Pasajeros pasajero1 = new Pasajeros();
         Pasajeros pasajero2 = new Pasajeros();
         Pasajeros pasajero3 = new Pasajeros();
