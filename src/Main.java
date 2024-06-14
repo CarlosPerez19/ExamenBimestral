@@ -44,6 +44,8 @@ public class Main {
        String ticket_2 = "Vip";
        double precio_2 = ruta2.getPrecio();
 
+       // Imprension de datos
+
        normal1.ImprimirDatos(nombre,ruta,ticket,precio);
        vip1.ImprimirDatosVip(nombre_2,ruta_2,ticket_2,precio_2);
 
